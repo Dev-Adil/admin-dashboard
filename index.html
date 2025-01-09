@@ -11,12 +11,12 @@
     <script type="module">
       import React from "react";
       import ReactDOM from "react-dom";
-      import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+      import { HashRouter as Router, Route, Switch } from "react-router-dom";
       import Dashboard from "./dashboard/index.js";
 
       function App() {
         return (
-          <Router basename="/admin-dashboard">
+          <Router>
             <Switch>
               <Route path="/" component={Dashboard} />
             </Switch>
