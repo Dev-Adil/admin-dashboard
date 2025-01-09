@@ -73,10 +73,6 @@ The project is deployed using **GitHub Pages**. To deploy any updates:
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or new features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Thank you for viewing my project! If you have any feedback or suggestions, feel free to reach out.
